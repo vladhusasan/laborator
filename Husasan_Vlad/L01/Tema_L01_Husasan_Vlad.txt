@@ -1,0 +1,5 @@
+Google Docs
+
+Utilizatorul intra in aplicatie din web browser la linkul docs.google.com, unde va intampina o interfata asemanatoare cu cea de la Microsoft Word.
+Spre deosebire de Microsoft Word, Google Docs poate fi folosit de oricine care are o adresa de gmail, fara a plati vreo taxa.
+Documentele create se stocheaza in Google Drive, de unde pot fi partajate cu alti utilizatori sau descarcate.
